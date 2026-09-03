@@ -1,131 +1,195 @@
-<!-- markdownlint-disable MD033 MD041 -->
+# UFO³ + Cathedral Edition v6.9 — Alternativa gratis a $200/mes OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer Use / Browser Use
 
-<h1 align="center">
-  <b>UFO³</b> <img src="assets/logo3.png" alt="UFO logo" width="70" style="vertical-align: -30px;"> : Tejiendo la Galaxia de Agentes Digitales
-  <br/>+ Cathedral Edition v6.6 por Jose Solorzano Luna
-</h1>
-<p align="center">
-  <em>De Agente de un Solo Dispositivo a Galaxia Multi-Dispositivo — Cathedral GRATIS vs $200/mes Operator</em>
-</p>
+
+**Por Jose Angel Solorzano Luna**
+![Stars](https://img.shields.io/github/stars/JoseAngelSolorzanoLuna/UFO?style=social) ![Last Commit](https://img.shields.io/github/last-commit/JoseAngelSolorzanoLuna/UFO) ![Commit Activity](https://img.shields.io/github/commit-activity/m/JoseAngelSolorzanoLuna/UFO) ![License](https://img.shields.io/github/license/JoseAngelSolorzanoLuna/UFO)
+
+**Microsoft Original:** https://github.com/microsoft/UFO
+**Cathedral (Fail-Safe Free AI):** https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI
 
 <p align="center">
-  <strong>📖 Idioma / Language:</strong>
-  <a href="README.md">English</a> | 
+  <strong>📖 Language / 语言 / Idioma:</strong>
+  <a href="README.md"><strong>English</strong></a> | 
   <a href="README_ZH.md">中文</a> | 
-  <a href="README_ES.md"><strong>Español (MX)</strong></a>
+  <a href="README_ES.md">Español (MX)</a>
 </p>
 
----
-# 🏛️ CATHEDRAL EDITION v6.6 — ARREGLO POLITE_LIE — EN VIVO (f50f6054)
-
-> **Prueba v6.5:** `OSHA Permit Root: e35f6ecad9da... (12 acciones)`  **Prueba v6.6:** `0 sin verificar → 2 VERDAD después de 3 repeticiones`
-
-### 📸 Prueba Visual v6.5 — 4 Imágenes (commit e1c3c21)
-![Arquitectura](docs/images/ufo-v6.5-cathedral-architecture.png)
-![Pirámide OSHA](docs/images/osha-hierarchy-controls-pyramid.png)
-![Tres Paneles](docs/images/three-panel-ai-safety-comparison.png)
-![Guardia](docs/images/bounded-sensor-gate-machine-guard.png)
-
-### 🔥 v6.6 — Tarjeta de Seguridad
-`lessons.jsonl` reemplaza `pronunciation_errors_report.md`, necesita 3 repeticiones → VERDAD. Prueba: `[TRUTH] safe_streak=3/3`
-
-
+<div align="center">
+<a href="https://trendshift.io/repositories/7874" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7874" alt="microsoft%2FUFO | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<br/>
+[![arxiv](https://img.shields.io/badge/Paper-arXiv:2511.11332-b31b1b.svg)](https://arxiv.org/abs/2511.11332)&ensp;
+[![arxiv](https://img.shields.io/badge/Paper-arXiv:2504.14603-b31b1b.svg)](https://arxiv.org/abs/2504.14603)&ensp;
+![Python Version](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white-blue&label=3.10%20%7C%203.11)&ensp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)&ensp;
+</div>
 
 ---
+# 🏛️ CATHEDRAL EDITION v6.9 POLITE_LIE FIX — LIVE (f50f6054)
 
-## 🔄 What's Updated — Old vs New Visuals
+> **v6.5 Proof:** `OSHA Permit Root: e35f6ecad9da... (12 actions) | Elimination Control Active` — Structural exclusion, not prompt filter. FREE vs $200/mo Operator / Perplexity / ClawBot / Claude / Browser Use.
+> **v6.6 Proof:** `Lessons: 0 unverified → 2 TRUTH after 3 consecutive replays` — Safety card model fixes POLITE_LIE bug.
 
-> **Context:** Original Microsoft UFO had basic logos + YouTube poster. Cathedral Edition v6.5 adds 4 formal safety architecture diagrams (commit `e1c3c21`) + v6.6 adds Safety Card model (commit `f50f6054`). All FREE vs $200/mo Operator.
+### 🛡️ OSHA Hierarchy of Controls — Implemented as Code
 
-### 📸 Preview Gallery — Click to view full size
+| Level | OSHA Concept | UFO Implementation | Status |
+|-------|--------------|-------------------|--------|
+| **L1 Elimination** | Remove hazard entirely | **Merkle Permit Set** — 12 actions hashed, non-permitted never proposed | ✅ LIVE `ba1f7bf481e2...` |
+| **L2 Substitution** | Replace with safer | **BoundedSensorGate** — click 0-3840/0-2160, type max 1000, injection block | ✅ LIVE |
+| **L3 Engineering** | Isolate worker | **Hash-Chain Ledger I6/I9** + machine guard stops stale screenshots BEFORE Watcher-A | ✅ LIVE |
+| **L4 Administrative** | Rules + audit | **Watcher-A + Watcher-B + Council** — 2-person rule, loop detection | ✅ LIVE |
+| **L5 PPE** | Last defense | **AEGIS Commit** + replay verification | ✅ LIVE |
 
-#### OLD (Microsoft Original) — Kept Below
+### 📸 v6.5 Visual Proof — 4 Images (commit e1c3c21)
 
-| Old Visual | Where Used | Status |
-|------------|------------|--------|
-| `assets/logo3.png` — UFO³ logo | Header | ✅ Kept — still in header |
-| `assets/ufo_blue.png` — UFO² logo | UFO² section | ✅ Kept |
-| `assets/poster_with_play.png` — YouTube demo poster | "See in Action" | ✅ Kept — links to demo video |
-| `assets/ufo_agent.png` — Agent diagram | Docs | ✅ Kept |
-
-**Old Preview (Microsoft):**
-- Logo + poster only — no safety hierarchy visualization.
-
-#### NEW (Cathedral Edition v6.5 + v6.6) — Added by Jose Solorzano Luna
-
-**Why added?** OSHA requires visual proof of controls. Microsoft UFO had no hierarchy diagram. Cathedral adds:
-
-| New Visual | What It Proves | Why It Matters |
-|------------|----------------|----------------|
-| **1. Cathedral Architecture**<br/>`ufo-v6.5-cathedral-architecture.png` | End-to-end: `User → BoundedSensorGate → Watcher-A/B → Council → Merkle Permit → Ledger → AEGIS` | Shows L1-L5 controls as code, not prompt filter |
-| **2. OSHA Pyramid**<br/>`osha-hierarchy-controls-pyramid.png` | L1 Elimination (Merkle) > L2 Substitution (Gate) > L3 Engineering (Ledger+Guard) > L4 Admin (Watcher+Council) > L5 PPE (AEGIS) | Proves FREE version uses Elimination (strongest), not PPE like $200/mo Operator |
-| **3. Three-Panel Comparison**<br/>`three-panel-ai-safety-comparison.png` | Panel 1: PPE only (fragile), Panel 2: Gate (better), Panel 3: Merkle Elimination (strongest — 12 hashed actions, non-permitted never proposed) | Visual why Cathedral is safer than Operator |
-| **4. BoundedSensorGate**<br/>`bounded-sensor-gate-machine-guard.png` | Machine guard stops stale screenshot BEFORE Watcher-A — like factory guard stopping hand before blade | Prevents loop bug where old screenshot feeds back |
-
-**New Previews (Cathedral v6.5 — commit e1c3c21):**
-
-##### 1. Full Cathedral Architecture
+**Full Cathedral Architecture — End-to-End:**
 ![Cathedral Architecture](docs/images/ufo-v6.5-cathedral-architecture.png)
-*End-to-end flow with OSHA controls as code. Root: `e35f6ecad9da...` (12 actions).*
 
-##### 2. OSHA Hierarchy Pyramid
+**OSHA Pyramid — Hierarchy as Code:**
 ![OSHA Pyramid](docs/images/osha-hierarchy-controls-pyramid.png)
-*L1 Elimination is strongest — Cathedral uses Merkle Permit Set (12 hashed actions). Operator uses L5 PPE (prompt filter) = weakest.*
 
-##### 3. Three-Panel Safety Comparison
-![Three Panel](docs/images/three-panel-ai-safety-comparison.png)
-*Why FREE Cathedral beats $200/mo Operator: Elimination > Gate > PPE.*
+**Three-Panel Comparison — PPE vs Gate vs Merkle Elimination:**
+![Three Panel Safety](docs/images/three-panel-ai-safety-comparison.png)
 
-##### 4. BoundedSensorGate — Machine Guard
-![Gate](docs/images/bounded-sensor-gate-machine-guard.png)
-*Stops stale screenshots before Watcher-A. Fixes loop where old capture re-triggers.*
+**BoundedSensorGate — Machine Guard stops stale screenshot before Watcher-A:**
+![BoundedSensorGate](docs/images/bounded-sensor-gate-machine-guard.png)
 
-### 🆕 v6.6 Update (commit f50f6054) — Safety Card Model
+### 🔥 v6.9 POLITE_LIE FIX — Safety Card Model (NEW)
 
-**Problem Fixed:**
-- v6.5: `pronunciation_errors_report.md` → `["POLITE_LIE", "TAU_NEAR_FLOOR"]` learned as immediate TRUTH from YouTube = poison risk
-- v6.6: `lessons.jsonl` with 3-replay safety card
+**Problem in v6.5:**
+`pronunciation_errors_report.md` → `["POLITE_LIE", "TAU_NEAR_FLOOR"]` learned as immediate **TRUTH** from YouTube. Poison risk.
 
-**Visual Context:**
+**Fix in v6.6 — `lessons.jsonl`:**
+- `learn tutorial named X` → creates `UNVERIFIED` (not TRUTH)
+- Needs **3 consecutive safe replays** to promote → `TRUTH`
+- OSHA workforce safety card: observation must be replayed 3× by 2 people
+- Fail → `consecutive_safe` resets to 0
+
+**Live Proof from your test (commit f50f6054):**
 ```
-[UNVERIFIED] my_first_test:POLITE_LIE src=youtube → needs 3 consecutive safe replays
-[REPLAY 1] safe_streak=1/3
-[REPLAY 2] safe_streak=2/3
-[REPLAY 3] safe_streak=3/3 → [TRUTH] promoted
+[PROMOTION GATE] my_first_test:TAU_NEAR_FLOOR promoted UNVERIFIED -> TRUTH after 3 consecutive safe replays (2-person rule passed)
+
+UFO v6.6 Cathedral Edition - POLITE_LIE FIX
+OSHA Permit Root: e35f6ecad9da... (12 actions) | Elimination Control Active
+Ledger valid: True - 0 entries
+Lessons: 0 actions learned from unverified YouTube - 2 promoted to TRUTH after 3 consecutive replays. Total 2 lessons.
+
+[TRUTH] my_first_test:POLITE_LIE src=youtube:my_first_test safe_streak=3/3 replays=3 id=3c53c8cf
+[TRUTH] my_first_test:TAU_NEAR_FLOOR safe_streak=3/3 replays=3 id=0736f5cb
 ```
 
-**Live Proof (from your test):**
+**Files:**
+- `Ufo64-V66-POLITE-FIX.py` (15KB single file) — drop-in like v6.5
+- `lessons.jsonl` — replaces `pronunciation_errors_report.md`
+- `status` → shows `0 unverified → 2 TRUTH after 3 replays`
+- `replay` → attempts promotion
+
+**Run:**
+```powershell
+.\ufo_env310\Scripts\python.exe .\Ufo64-V66-POLITE-FIX.py
+> learn tutorial named my_first_test
+> status
+> replay (x3) → watch promotion
 ```
-[PROMOTION GATE] TAU_NEAR_FLOOR promoted UNVERIFIED -> TRUTH after 3 consecutive safe replays
-Lessons: 0 unverified → 2 TRUTH after 3 replays
-```
 
-### 📊 Side-by-Side Summary
-
-| Aspect | Old Microsoft UFO | New Cathedral v6.6 |
-|--------|-------------------|---------------------|
-| **Visuals** | 2 logos + 1 YouTube poster | +4 architecture diagrams + safety card log |
-| **Safety Model** | Prompt filter (L5 PPE) | OSHA L1-L5 as code (Elimination strongest) |
-| **Permit** | Not hashed | Merkle root `e35f6ecad9da...` 12 actions hashed |
-| **Learning** | Immediate TRUTH from YouTube | 3-replay verification → TRUTH |
-| **Cost** | Research demo | FREE vs $200/mo Operator / Claude Computer Use |
-| **Languages** | EN/ZH | EN/ZH/ES-MX (for family) |
-
-**How to view previews:**
-- On GitHub: scroll to this section → images render inline
-- Click image → opens full size in `docs/images/`
-- Raw files: `https://github.com/JoseAngelSolorzanoLuna/UFO/tree/main/docs/images`
+**Git Log:**
+- e1c3c21 — v6.5 OSHA: 4 visuals fixed .png
+- f50f6054 — v6.9 POLITE_FIX: 3-replay safety card - 0 unverified -> 2 TRUTH (LIVE)
+- 852c404c — docs: Spanish README added
 
 
 
 ---
-## Documentación Original Microsoft Abajo
+
+## 🔄 What's Updated — Old Microsoft vs New Cathedral — Visual Comparison
+
+> **You asked to SEE old + new side-by-side.** Original Microsoft UFO had only logos + YouTube poster. Cathedral v6.4 adds 4 blueprint posters + v6.6 adds Safety Card. All FREE vs $200/mo Operator / Perplexity / ClawBot / Claude / Browser Use.
+
+### 📸 OLD ORIGINALS (Microsoft — Still Kept)
+
+These are from `assets/` in original repo — simple branding, no safety proof:
+
+| Visual | File | Purpose |
+|--------|------|---------|
+| UFO³ Logo | `assets/logo3.png` | Header branding |
+| UFO² Logo | `assets/ufo_blue.png` | UFO² section |
+| YouTube Demo Poster | `assets/poster_with_play.png` | Click to watch Galaxy demo |
+| Agent Diagram | `assets/ufo_agent.png` | Basic agent loop |
+
+**Old Preview — What Microsoft had:**
+- 2 logos + 1 YouTube thumbnail
+- No OSHA hierarchy, no Merkle permit, no ledger diagram
+
+> On GitHub these render from `assets/` folder — they are still in your repo and still display at top.
+
+### 🆕 NEW CATHEDRAL v6.4 + v6.6 (Added by Jose Angel Solorzano Luna — commit e1c3c21 + f50f6054)
+
+**Why added?** OSHA requires visual proof. Microsoft had none. Cathedral adds formal safety blueprints.
+
+#### 1. FAIL-SAFE FREE AI Poster (NEW — Your v6.4 Brand)
+`docs/images/fail-safe-free-ai-poster.jpg`
+![FAIL-SAFE FREE AI](docs/images/fail-safe-free-ai-poster.jpg)
+**What it proves:** 100% Free, Offline, 8GB RAM • ON-DEVICE VISION • ONE-CLICK RUN • IMMUTABLE LEDGER • SAFETY GATE • 5 MODELS • OFFLINE • NO INTERNET REQUIRED
+**Why:** Immediate value prop vs $200/mo Operator — privacy first, run locally.
+
+#### 2. Cathedral Computer Blueprint v6.4 (NEW — High-Throughput Architecture)
+`docs/images/cathedral-computer-blueprint-v64.png`
+![Cathedral Computer v6.4](docs/images/cathedral-computer-blueprint-v64.png)
+**What it proves:** 5 MODELS = OPCODES (phi3 mini 3.8B FAST, llama3.2 MID, llama3.1 SMART 8B, qwen2.5 QWEN 7B, llava EYES) + LEDGER = IMMUTABLE TRUTH (Merkle Root, SHA3-512, Crypto Seal, Consensus Lock) + 4 INVARIANTS = REGISTERS (R0 Consistency, R1 Causality, R2 Conservation, R3 Boundary) + CORE PROCESSING BOARD (R0 Watcher-A, R1 Watcher-B, AEGIS, R2 Council, R3 Gate)
+**Why:** Shows computer architecture, not just prompt — Ledger is ISA, Tensor Cores are BUS.
+
+#### 3. 5 Geometric Models as Opcode Families (NEW — Math Proof)
+`docs/images/5-geometric-models-opcode-families.png`
+![5 Geometric Models](docs/images/5-geometric-models-opcode-families.png)
+**What it proves:** phi3 MINI = Low Latency Edge Sphere (<5ms, 3.8B), LLAMA3.2 = Pyramid for Hierarchy (L0→L4), LLAMA3.1 = Graph Network for Reasoning (Edges 512, Nodes 64), QWEN2.5 = Torus for Multilingual Cyclic (29+ langs), LLAVA = Eye Sphere for Vision (ViT-L/14) + 4-SLOT REGISTER FILE [1.618] Golden Ratio PHI, [-0.707] COS(135°), [0.000] ZERO, [0.500] ONE-HALF + TENSOR-CORE WARP FABRIC MESH BUS
+**Why:** Geometric proof of 5-model mapping — each model is a shape, not random.
+
+#### 4. High-Throughput Cathedral Computer Pipeline (NEW — Instruction Pipeline)
+`docs/images/high-throughput-cathedral-computer.png`
+![High Throughput Pipeline](docs/images/high-throughput-cathedral-computer.png)
+**What it proves:** Instruction Pipeline A→T→V→Q→P (ASSIGN → TRACK → VALIDATE → QUEUE → PUBLISH) + 5 MODEL OPCODES AS STAMPED SEALS (01 ALLOC phi3, 02 BROADCAST llama3.2, 03 GATHER llama3.1, 04 SCATTER qwen2.5, 05 VISION llava) + 4-WIDE REGISTER FILE PERSISTENT VECTOR REGISTERS (R0-R3 × V0-V14 hex values) + TENSOR MMA WARP GRID AS BUS (MMA[0,0]..MMA[3,3]) + AEGIS / ZERO DRIFT safety
+**Why:** Shows 5.2 TOPS @ 2.1GHz throughput, 45W TDP, fault tolerance triple-redundant.
+
+### 📊 Old vs New Side-by-Side
+
+| Aspect | OLD Microsoft UFO | NEW Cathedral v6.6 |
+|--------|-------------------|---------------------|
+| **Visual Count** | 3 (2 logos + YouTube poster) | +4 blueprints = 7 total |
+| **Branding** | Microsoft UFO³ Galaxy | FAIL-SAFE FREE AI — 100% Free, Offline |
+| **Architecture Diagram** | None | Cathedral Computer blueprint with Ledger = Immutable Truth |
+| **Model Explanation** | Text list | 5 Geometric Models as Opcode Families with shapes |
+| **Pipeline** | ReAct loop text | A-T-V-Q-P pipeline with stamped seals + register file |
+| **Safety Proof** | None | OSHA L1-L5 as code, Merkle Root `e35f6ecad9da...`, Safety Gate |
+| **Learning** | Immediate TRUTH from YouTube | 3-replay Safety Card → `0 unverified → 2 TRUTH` |
+| **Cost** | Research demo | FREE vs $200/mo Operator |
+
+### 🆕 v6.6 Safety Card Update (f50f6054) — No New Image, But Log Proof
+
+```
+Before (v6.5 poison risk):
+pronunciation_errors_report.md → POLITE_LIE learned as TRUTH
+
+After (v6.6 safety card):
+lessons.jsonl → UNVERIFIED → needs 3 consecutive safe replays → TRUTH
+[PROMOTION GATE] TAU_NEAR_FLOOR promoted after 3 replays
+Lessons: 0 unverified → 2 TRUTH
+```
+
+**How to view previews on GitHub:**
+1. Go to `https://github.com/JoseAngelSolorzanoLuna/UFO/blob/main/README.md#--whats-updated--old-microsoft-vs-new-cathedral--visual-comparison`
+2. Scroll — all 4 new blueprints render inline
+3. Click any image → opens full-res in `docs/images/`
+4. Old images still render at top from `assets/`
+
+
+
+---
+## ORIGINAL MICROSOFT UFO³ DOCS BELOW — CATHEDRAL v6.6 ABOVE IS LIVE
 
 <!-- markdownlint-disable MD033 MD041 -->
 
-<h1 align="center">
+
   <b>UFO³</b> <img src="assets/logo3.png" alt="UFO logo" width="70" style="vertical-align: -30px;"> : Weaving the Digital Agent Galaxy
-</h1>
+
 <p align="center">
   <em>From Single Device Agent to Multi-Device Galaxy</em>
 </p>

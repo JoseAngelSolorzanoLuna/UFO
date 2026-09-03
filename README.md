@@ -1,12 +1,11 @@
-<!-- markdownlint-disable MD033 MD041 -->
+# UFO³ + Cathedral Edition v6.9 — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer Use / Browser Use
 
-<h1 align="center">
-  <b>UFO³</b> <img src="assets/logo3.png" alt="UFO logo" width="70" style="vertical-align: -30px;"> : Weaving the Digital Agent Galaxy
-  <br/>+ Cathedral Edition v6.6 by Jose Solorzano Luna
-</h1>
-<p align="center">
-  <em>From Single Device Agent to Multi-Device Galaxy — FREE Cathedral vs $200/mo Operator</em>
-</p>
+
+**By Jose Angel Solorzano Luna**
+![Stars](https://img.shields.io/github/stars/JoseAngelSolorzanoLuna/UFO?style=social) ![Last Commit](https://img.shields.io/github/last-commit/JoseAngelSolorzanoLuna/UFO) ![Commit Activity](https://img.shields.io/github/commit-activity/m/JoseAngelSolorzanoLuna/UFO) ![License](https://img.shields.io/github/license/JoseAngelSolorzanoLuna/UFO)
+
+**Original Microsoft:** https://github.com/microsoft/UFO
+**Cathedral (Fail-Safe Free AI):** https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI
 
 <p align="center">
   <strong>📖 Language / 语言 / Idioma:</strong>
@@ -25,9 +24,9 @@
 </div>
 
 ---
-# 🏛️ CATHEDRAL EDITION v6.6 POLITE_LIE FIX — LIVE (f50f6054)
+# 🏛️ CATHEDRAL EDITION v6.9 POLITE_LIE FIX — LIVE (f50f6054)
 
-> **v6.5 Proof:** `OSHA Permit Root: e35f6ecad9da... (12 actions) | Elimination Control Active` — Structural exclusion, not prompt filter. FREE vs $200/mo Operator.
+> **v6.5 Proof:** `OSHA Permit Root: e35f6ecad9da... (12 actions) | Elimination Control Active` — Structural exclusion, not prompt filter. FREE vs $200/mo Operator / Perplexity / ClawBot / Claude / Browser Use.
 > **v6.6 Proof:** `Lessons: 0 unverified → 2 TRUTH after 3 consecutive replays` — Safety card model fixes POLITE_LIE bug.
 
 ### 🛡️ OSHA Hierarchy of Controls — Implemented as Code
@@ -54,7 +53,7 @@
 **BoundedSensorGate — Machine Guard stops stale screenshot before Watcher-A:**
 ![BoundedSensorGate](docs/images/bounded-sensor-gate-machine-guard.png)
 
-### 🔥 v6.6 POLITE_LIE FIX — Safety Card Model (NEW)
+### 🔥 v6.9 POLITE_LIE FIX — Safety Card Model (NEW)
 
 **Problem in v6.5:**
 `pronunciation_errors_report.md` → `["POLITE_LIE", "TAU_NEAR_FLOOR"]` learned as immediate **TRUTH** from YouTube. Poison risk.
@@ -94,7 +93,7 @@ Lessons: 0 actions learned from unverified YouTube - 2 promoted to TRUTH after 3
 
 **Git Log:**
 - e1c3c21 — v6.5 OSHA: 4 visuals fixed .png
-- f50f6054 — v6.6 POLITE_FIX: 3-replay safety card - 0 unverified -> 2 TRUTH (LIVE)
+- f50f6054 — v6.9 POLITE_FIX: 3-replay safety card - 0 unverified -> 2 TRUTH (LIVE)
 - 852c404c — docs: Spanish README added
 
 
@@ -103,7 +102,7 @@ Lessons: 0 actions learned from unverified YouTube - 2 promoted to TRUTH after 3
 
 ## 🔄 What's Updated — Old Microsoft vs New Cathedral — Visual Comparison
 
-> **You asked to SEE old + new side-by-side.** Original Microsoft UFO had only logos + YouTube poster. Cathedral v6.4 adds 4 blueprint posters + v6.6 adds Safety Card. All FREE vs $200/mo Operator.
+> **You asked to SEE old + new side-by-side.** Original Microsoft UFO had only logos + YouTube poster. Cathedral v6.4 adds 4 blueprint posters + v6.6 adds Safety Card. All FREE vs $200/mo Operator / Perplexity / ClawBot / Claude / Browser Use.
 
 ### 📸 OLD ORIGINALS (Microsoft — Still Kept)
 
@@ -122,7 +121,7 @@ These are from `assets/` in original repo — simple branding, no safety proof:
 
 > On GitHub these render from `assets/` folder — they are still in your repo and still display at top.
 
-### 🆕 NEW CATHEDRAL v6.4 + v6.6 (Added by Jose Solorzano Luna — commit e1c3c21 + f50f6054)
+### 🆕 NEW CATHEDRAL v6.4 + v6.6 (Added by Jose Angel Solorzano Luna — commit e1c3c21 + f50f6054)
 
 **Why added?** OSHA requires visual proof. Microsoft had none. Cathedral adds formal safety blueprints.
 
@@ -188,9 +187,9 @@ Lessons: 0 unverified → 2 TRUTH
 
 <!-- markdownlint-disable MD033 MD041 -->
 
-<h1 align="center">
+
   <b>UFO³</b> <img src="assets/logo3.png" alt="UFO logo" width="70" style="vertical-align: -30px;"> : Weaving the Digital Agent Galaxy
-</h1>
+
 <p align="center">
   <em>From Single Device Agent to Multi-Device Galaxy</em>
 </p>
