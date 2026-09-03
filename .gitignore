@@ -71,3 +71,16 @@ ufo/config/config_llm.yaml
 !config/*/device.yaml
 !config/*/network.yaml
 node_modules
+ufo_env310/
+ledger.jsonl
+lessons.jsonl
+__pycache__/
+*.pyc
+projects/
+READMEe.md
+Run-*.py
+ufo/*.py
+ufo/config/
+ufo62.py
+ufo63.py
+ufo64*.py
