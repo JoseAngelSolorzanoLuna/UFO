@@ -2,6 +2,37 @@
 
 <h1 align="center">
   <b>UFO³</b> <img src="assets/logo3.png" alt="UFO logo" width="70" style="vertical-align: -30px;"> : 编织数字智能体星系
+  <br/>+ Cathedral Edition v6.6 by Jose Solorzano Luna
+</h1>
+<p align="center">
+  <em>从单设备智能体到多设备星系 — 免费 Cathedral vs $200/mes Operator</em>
+</p>
+
+<p align="center">
+  <strong>📖 Language / 语言 / Idioma:</strong>
+  <a href="README.md">English</a> | 
+  <a href="README_ZH.md"><strong>中文</strong></a> | 
+  <a href="README_ES.md">Español (MX)</a>
+</p>
+
+---
+# 🏛️ CATHEDRAL EDITION v6.6 — 修复 POLITE_LIE — LIVE (f50f6054)
+
+**v6.5 证明:** `OSHA Permit Root: e35f6ecad9da...`  **v6.6 证明:** `0 unverified → 2 TRUTH`
+
+📸 4 visuals: `docs/images/ufo-v6.5-cathedral-architecture.png` etc — Commit e1c3c21
+
+🔥 v6.6: `lessons.jsonl` reemplaza `pronunciation_errors_report.md`, necesita 3 repeticiones seguras → TRUTH (prueba f50f6054)
+
+---
+## 微软原版文档在下方 — 你的 Cathedral 工作在上方是 LIVE
+
+
+
+<!-- markdownlint-disable MD033 MD041 -->
+
+<h1 align="center">
+  <b>UFO³</b> <img src="assets/logo3.png" alt="UFO logo" width="70" style="vertical-align: -30px;"> : 编织数字智能体星系
 </h1>
 <p align="center">
   <em>从单设备智能体到多设备星系</em>
